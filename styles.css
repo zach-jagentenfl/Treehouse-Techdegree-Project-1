@@ -142,7 +142,7 @@ header .interior-page-heading-title {
   border-color: #ED6A5A;
 }
 
-/* Floating the company image and high-level Job info inline */
+/* Floating the company image and high-level Job info inline. Found the snippets for this solution at https://coder-coder.com/display-divs-side-by-side/. I thought the float solution was best in this case. */
 
 .float-child-logo {
   width: auto;
